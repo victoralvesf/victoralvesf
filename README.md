@@ -1,61 +1,86 @@
-<h2 align="left">Hi 👋! My name is Victor. I'm a former QA Engineer transitioning into Full-Stack Development, with a strong passion for building intuitive and reliable user experiences using modern web technologies.</h2>
+## Hey, I'm Victor 👋
 
-###
+I build free and open-source software, focusing on intuitive and reliable user experiences powered by modern web technologies.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoralvesf&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoralvesf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=victoralvesf&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
+- 🔧 Currently working as a **Full Stack Developer**
+- 📚 Currently learning **React Native & SwiftUI**
+- 🌐 Portfolio: [victoralvesf.com](https://victoralvesf.com)
+- ⚡ Fun fact: There's a 99% chance I'm listening to music right now 🎧
 
-###
+**Some Projects:**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="30" alt="cypress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-</div>
+- 🎵 [`aonsoku`](https://github.com/victoralvesf/aonsoku) - A modern desktop client for Navidrome/Subsonic servers built with React and Electron.
+- 📻 [`aonsoku-podcasts`](https://github.com/victoralvesf/aonsoku-podcasts) - The companion REST API powering podcast support within Aonsoku.
 
-###
+<!-- --- -->
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/victoralvesf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+**Tech Stack**
 
-<br clear="both">
+<table>
+	<tr>
+		<th align="left">Category</th>
+		<th align="left">Technologies</th>
+	</tr>
+	<tr>
+		<td><b>🛠️ Back-end</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-PHP-777BB3?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+			<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+		</td>
+	</tr>
+  <tr>
+		<td><b>🎨 Front-end</b></td>
+		<td>
+      <img src="https://img.shields.io/badge/-React-0081A3?style=flat-square&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" />
+      <img src="https://img.shields.io/badge/-Astro-2C2052?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/-CSS-004CE8?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+		</td>
+	</tr>
+  <tr>
+		<td><b>📚 Frameworks and Libraries</b></td>
+		<td>
+      <img src="https://img.shields.io/badge/-Laravel-F61500?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/-Filament-FDAE4B?style=flat-square&logo=filament&logoColor=white" alt="Filament PHP" />
+			<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=laravel&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/-Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+      <img src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" alt="PostCSS" />
+      <img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn/ui" />
+		</td>
+	</tr>
+	<tr>
+		<td><b>📦 Containerization</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+			<img src="https://img.shields.io/badge/-Docker_Swarm-2593FF?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🔁 CI/CD</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+			<img src="https://img.shields.io/badge/-GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🌐 Web & Infra</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+			<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🗄️ Databases</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+			<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+		</td>
+	</tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/victoralvesf/victoralvesf/output/snake.svg" alt="Snake animation" />
 
-###
+<!-- --- -->
